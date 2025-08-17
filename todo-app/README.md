@@ -2,7 +2,6 @@
 
 A simple yet feature-rich desktop todo list application built with GTK+3 in C. This application provides a clean graphical interface for managing your daily tasks with persistent storage.
 
-![GTK Todo App](https://via.placeholder.com/600x400/2E3440/ECEFF4?text=GTK+Todo+App)
 
 ## 🚀 Features
 
@@ -174,15 +173,11 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+Vaishnavi Bandaru
+- GitHub: https://github.com/vaishnavib04
+- Email:  vaishu.bandaru06@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -192,4 +187,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Note**: Replace placeholder information (GitHub username, email, etc.) with your actual details before committing to your repository.
