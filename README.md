@@ -2,7 +2,6 @@
 
 A simple yet feature-rich desktop Task Management Framework built with GTK+3 in C. This application provides a clean graphical interface for managing your daily tasks with persistent storage.
 
-![GTK Todo App](https://via.placeholder.com/600x400/2E3440/ECEFF4?text=GTK+Todo+App)
 
 ## 🚀 Features
 
